@@ -1,5 +1,3 @@
+require "fw/beanhelper"
 require "model/version"
-
-module Model
-  # Your code goes here...
-end
+require "model/beans"
